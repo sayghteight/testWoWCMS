@@ -1,0 +1,47 @@
+{
+    "site": {
+      "title": "Tu visión, nuestra plataforma – WoW-CMS",
+      "description": "Desbloquea el potencial de tus ideas con WoW-CMS, donde tu visión se convierte en realidad. Descubre nuestra versátil plataforma de gestión de contenido hoy mismo."
+    },
+    "hero": {
+      "subtitle": "Únete a nuestra comunidad unida, donde nos especializamos en la creación de proyectos de CMS adaptados para entusiastas de los videojuegos.",
+      "button-community": "Unete a la comunidad",
+      "button-discover": "Descubre más"
+    },
+    "navbar": {
+      "title": "WOWCMS",
+      "home": "Inicio",
+      "community": {
+        "menu": "Comunidad",
+        "menu-1": "Nuestro Discord",
+        "menu-1-desc": "En nuestro Discord, puedes encontrar la información más reciente sobre nuestros productos, así como soporte y una comunidad dispuesta a ayudarte.",
+        "menu-2": "Nuestro Github",
+        "menu-2-desc": "Nuestros proyectos siguen la filosofía de código abierto. Todos ellos se pueden encontrar en nuestro Github.",
+        "menu-3": "BlizzCMS",
+        "menu-3-desc": "Un CMS enfocado en ofrecer servicios para servidores de World of Warcraft. Con más de 5 años de desarrollo."
+      },
+      "marketplace": "Mercado",
+      "contact": "Contacto"
+    },
+    "feature": {
+      "title": "Nuestra Misión: Transformar la Interacción en la Comunidad de Juegos",
+      "subtitle": "Construimos un CMS centralizado para que los jugadores se conecten, colaboren y compartan experiencias.",
+      "cards": {
+        "card-1": "Open-Source",
+        "card-1-desc": "Abrazamos la filosofía de código abierto. Nuestro CMS se basa en el poder de la comunidad y la transparencia. Colaboramos para hacer que nuestro código sea accesible para todos, permitiendo una personalización completa.",
+        "card-2": "Multilingüe",
+        "card-2-desc": "Hemos hecho que nuestro CMS sea realmente global. Con soporte multilingüe, ahora puedes experimentar nuestra plataforma en tu idioma preferido. La diversidad de idiomas refleja nuestra dedicación a una comunidad inclusiva.",
+        "card-3": "Comunidad",
+        "card-3-desc": "Nuestra comunidad es el corazón de todo lo que hacemos. Aquí, los jugadores y entusiastas se unen, comparten ideas y crean juntos. Únete a una red apasionada de personas que comparten tu amor por los juegos y la creación de contenido."
+      }
+    },    
+    "langs": {
+      "flag-icon-html": "<svg aria-hidden=\"true\" class=\"h-3.5 w-3.5 rounded-full mr-2\" xmlns=\"http://www.w3.org/2000/svg\" id=\"flag-icon-css-es\" viewBox=\"0 0 480 320\"><rect width=\"480\" height=\"100\" fill=\"#c60c30\"/><rect width=\"480\" height=\"100\" y=\"100\" fill=\"#ffc720\"/><rect width=\"480\" height=\"100\" y=\"200\" fill=\"#c60c30\"/></svg>",
+      "current": "Spanish (ES)",
+      "menu": 
+      {
+        "es": "Spanish (ES)",
+        "en": "English (US)"
+      }
+    }
+}

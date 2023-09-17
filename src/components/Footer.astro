@@ -1,21 +1,21 @@
 ---
-import { LanguageSelector } from "astro-i18next/components";
+import { t } from "i18next";
 ---
 <footer class="left-0 z-20 w-full p-4 bg-white border-t border-gray-200 shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-gray-800 dark:border-gray-600">
   <div class="mx-auto max-w-screen-xl text-center ">
       <a href="#" class="flex justify-center items-center text-2xl font-semibold text-gray-900 dark:text-white">
-          WoWCMS    
+          {t("site.title")}    
       </a>
-      <p class="my-6 text-gray-500 dark:text-gray-400">Is a group of web developers who in their free time are dedicated to creating, managing and maintaining cms for the growing community of online games</p>
+      <p class="my-6 text-gray-500 dark:text-gray-400">{t("footer.description")}</p>
       <ul class="flex flex-wrap justify-center items-center mb-6 text-gray-900 dark:text-white">
           <li>
-              <a href="#" class="mr-4 hover:underline md:mr-6">Contribute</a>
+              <a href="https://ko-fi.com/wowcms" class="mr-4 hover:underline md:mr-6">{t("footer.nav.contribute")}</a>
           </li>
           <li>
-              <a href="#" class="mr-4 hover:underline md:mr-6 ">Campaigns</a>
+              <a href="https://wow-cms.github.io/docs/" class="mr-4 hover:underline md:mr-6 ">{t("footer.nav.docs")}</a>
           </li>
           <li>
-              <a href="#" class="mr-4 hover:underline md:mr-6">Affiliate Program</a>
+              <a href="#" class="mr-4 hover:underline md:mr-6">{t("footer.nav.a-program")}</a>
           </li>
       </ul>
       <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2017-2023 <a href="#" class="hover:underline">WoW-CMS.com™</a>. All Rights Reserved.</span>

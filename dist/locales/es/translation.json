@@ -43,5 +43,39 @@
         "es": "Spanish (ES)",
         "en": "English (US)"
       }
+    },
+    "footer": {
+      "description": "WowCMS es un apasionado grupo de desarrolladores web que dedican su tiempo libre a crear, gestionar y mantener sistemas de gestión de contenido (CMS) diseñados específicamente para la creciente comunidad de juegos en línea.",
+      "nav": {
+        "contribute": "Contribuir",
+        "docs": "Documentación",
+        "a-program": "Programa de afiliados"
+      }
+    },
+    "timeline": {
+      "title": "Explorando el Viaje del Proyecto WoW-CMS: Desde la Concepción hasta la Evolución",
+      "description": "Únete a nosotros mientras descubrimos la narrativa detrás de la concepción, hitos clave y decisiones transformadoras que han moldeado el proyecto WoW-CMS en su forma actual.",
+      "title-1": "Inicio del proyecto",
+      "date-1": "Comenzó el 21 de febrero de 2019",
+      "text-1": "El viaje de WoW-CMS como proyecto comienza oficialmente. Inicialmente, fue iniciado por dos personas: Dzywolf y Darthar.",
+      "title-2": "Lanzamiento y actualización de BlizzCMS",
+      "date-2": "Lanzado el 21 de febrero de 2019",
+      "text-2": "BlizzCMS Plus ve la luz, pronto el sitio web de WoW-CMS.com recibe casi 50,000 visitas en su lanzamiento, convirtiéndose en el lanzamiento de proyecto más grande.",
+      "title-3": "Lanzamiento de BlizzCMS v2",
+      "date-3": "Lanzado el 12 de enero de 2023",
+      "text-3": "¿Qué nos depara el destino? Nadie lo sabe, una vez que salió BlizzCMS v1, decidimos tomar un giro y comenzar el desarrollo de la v2."
+    },
+    "contact": {
+      "title": "Preguntas frecuentes",
+      "question1": "¿Qué es un CMS gratuito y de código abierto?",
+      "answer1": "Un CMS (Sistema de Gestión de Contenido) gratuito y de código abierto es una plataforma en la que los usuarios pueden crear, gestionar y publicar contenido en línea de manera fácil y eficiente. Este tipo de CMS se caracteriza por ser de acceso gratuito, lo que significa que cualquier persona puede usarlo de forma gratuita y tener acceso al código fuente del software. Esto permite a los usuarios personalizar, modificar y mejorar el sistema según sus necesidades y preferencias.",
+      "question2": "¿Cuáles son las ventajas de usar un CMS gratuito y de código abierto?",
+      "answer2": "Al utilizar un CMS gratuito y de código abierto, los usuarios obtienen varias ventajas. Algunas de las ventajas clave incluyen:",
+      "advantage1": "Costo: al ser gratuito, es asequible para cualquier persona que quiera iniciar un proyecto.",
+      "advantage2": "Flexibilidad: el código de código abierto permite realizar modificaciones y personalizaciones basadas en las necesidades específicas del proyecto.",
+      "advantage3": "Comunidad activa: al ser de código abierto, la comunidad tiende a ser más grande, por lo que es fácil encontrar ayuda.",
+      "advantage4": "Seguridad: al ser de código abierto, el código puede ser revisado por la comunidad para identificar y abordar posibles vulnerabilidades de seguridad.",
+      "question3": "¿Qué incluyen las \"actualizaciones gratuitas\"?",
+      "answer3": "Las actualizaciones gratuitas que se proporcionarán se basan en la hoja de ruta que hemos establecido para este proyecto. También es posible que proporcionemos actualizaciones adicionales fuera de la hoja de ruta."
     }
 }

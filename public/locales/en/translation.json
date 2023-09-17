@@ -44,5 +44,39 @@
         "es": "Spanish (ES)",
         "en": "English (US)"
       }
+    },
+    "footer": {
+      "description": "WowCMS is a passionate collective of web developers who devote their free time to crafting, overseeing, and nurturing content management systems (CMS) tailored specifically for the burgeoning online gaming community.",
+      "nav": {
+        "contribute": "Contribute",
+        "docs": "Documentation",
+        "a-program": "Affiliate Program"
+      }
+    },
+    "timeline": {
+      "title": "Exploring the WoW-CMS Project Journey: From Conception to Evolution",
+      "description": "Join us as we uncover the narrative behind the inception, key milestones, and transformative decisions that have molded the WoW-CMS project into its present form.",
+      "title-1": "Start of the project",      
+      "date-1": "Start on Febraury 21, 2019",
+      "text-1": "The journey of WoW-CMS as a project officially begins. Initially it is started by two people Dzywolf and Darthar.",
+      "title-2": "Release and update of BlizzCMS.",
+      "date-2": "Released on Febraury 21, 2019",
+      "text-2": "BlizzCMS Plus sees the light, soon the WoW-CMS.com website receives nearly 50,000 views in its launch, becoming the largest project launch.",
+      "title-3": "Release BlizzCMS v2.",
+      "date-3": "Released on January 12, 2023",
+      "text-3": "What does destiny hold for us? No one knows, once BlizzCMS v1 came out we decided to take a turn and start development on v2."
+    },
+    "contact": {
+      "title": "Frequently asked questions",
+      "question1": "What is a free and open-source CMS?",
+      "answer1": "A free and open-source CMS (Content Management System) is a platform where users can create, manage, and publish content online easily and efficiently. This type of CMS is characterized by being freely accessible, meaning anyone can use it for free and have access to the source code of the software. This allows users to customize, modify, and enhance the system according to their needs and preferences.",
+      "question2": "What are the advantages of using a free and open-source CMS?",
+      "answer2": "When using a free and open-source CMS, users benefit from several advantages. Some of the key advantages include:",
+      "advantage1": "Cost: Being free, it is affordable for anyone who wants to start a project.",
+      "advantage2": "Flexibility: The open-source code allows for modifications and customizations based on specific project needs.",
+      "advantage3": "Active community: Being open source, the community tends to be larger, so it is easy to find help.",
+      "advantage4": "Security: Being open-source, the code can be reviewed by the community to identify and address potential security vulnerabilities.",
+      "question3": "What does \"free updates\" include?",
+      "answer3": "The free updates that will be provided are based on the roadmap that we have laid out for this project. It is also possible that we will provide extra updates outside of the roadmap as well."
     }
 }

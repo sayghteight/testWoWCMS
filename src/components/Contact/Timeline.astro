@@ -1,3 +1,7 @@
+---
+import { t } from "i18next";
+---
+
 <section class="bg-white dark:bg-gray-900">
   <div
     class="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-1"
@@ -7,12 +11,10 @@
         <h2
           class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white"
         >
-          From Inception to Evolution: Unveiling the WoW-CMS Project Timeline
+          {t("timeline.title")}
         </h2>
         <p class="mb-8 font-light text-gray-500 sm:text-xl dark:text-gray-400">
-          Join us as we unveil the story behind the inception, milestones, and
-          transformative decisions that have shaped the WoW-CMS project into
-          what it is today.
+          {t("timeline.description")}
         </p>
       </div>
     </div>
@@ -40,15 +42,14 @@
         </div>
         <div class="mt-3 sm:pr-8">
           <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
-            Start of the project
+            {t("timeline.title-1")}
           </h3>
           <time
             class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-            >Start on Febraury 21, 2019</time
+            >{t("timeline.date-1")}</time
           >
           <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-            The journey of WoW-CMS as a project officially begins. Initially it
-            is started by two people Dzywolf and Darthar.
+            {t("timeline.text-1")}
           </p>
         </div>
       </li>
@@ -75,16 +76,14 @@
         </div>
         <div class="mt-3 sm:pr-8">
           <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
-            Release and update of BlizzCMS.
+            {t("timeline.title-2")}
           </h3>
           <time
             class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-            >Released on Febraury 21, 2019</time
+            >{t("timeline.date-2")}</time
           >
           <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-            BlizzCMS Plus sees the light, soon the WoW-CMS.com website receives
-            nearly 50,000 views in its launch, becoming the largest project
-            launch.
+            {t("timeline.text-2")}
           </p>
         </div>
       </li>
@@ -111,15 +110,14 @@
         </div>
         <div class="mt-3 sm:pr-8">
           <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
-            Release BlizzCMS v2.
+            {t("timeline.title-3")}
           </h3>
           <time
             class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-            >Released on January 12, 2023</time
+            >{t("timeline.date-3")}</time
           >
           <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-            What does destiny hold for us? No one knows, once BlizzCMS v1 came
-            out we decided to take a turn and start development on v2.
+            {t("timeline.text-3")}
           </p>
         </div>
       </li>
